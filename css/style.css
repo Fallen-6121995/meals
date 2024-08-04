@@ -1,0 +1,42 @@
+.navbar-brand {
+  cursor: pointer;
+}
+.navbar {
+  padding: 0.5rem 3rem;
+  background-color: #fff;
+}
+.navbar-toggler {
+  border: none;
+}
+.navbar-toggler:focus {
+  outline: none;
+}
+.nav-link {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 17px;
+  padding-right: 2rem !important;
+  cursor: pointer;
+}
+.nav-link:hover {
+  color: #e99937 !important;
+}
+.active a {
+  color: #e99937 !important;
+}
+.tagline span {
+  display: block;
+  font-weight: 700;
+  font-size: 5vw;
+  letter-spacing: 2px;
+  line-height: 12vh;
+}
+.our-menu {
+  border: 2px solid #e99937 !important;
+  height: 70px;
+  width: 200px;
+}
+.carousel-caption {
+  position: absolute;
+  top: 150px;
+}
